@@ -11,8 +11,9 @@ This is a website i created where you can shorten a long link and still retain i
 https://link-shortner-website.vercel.app/
 
 ## Built  With
-React
-Styled Components
-Bitly API
-clipboardjs API
 
+
+ - React
+ - Styled Components
+ - [bit.ly](http://bit.ly/) API
+ - Cipboardjs
